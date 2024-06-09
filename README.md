@@ -1,1 +1,2 @@
-# Üniversite yılları - İlk mülakat projem
+# Üniversite yılları/İlk mülakat projem
+
